@@ -29,3 +29,12 @@ var p4 = new Produto(){
 };
 ```
 
+5.
+
+```
+var p5 = new Produto{
+  Nome = "Caneta",
+  Preco = 2.90
+};
+```
+
