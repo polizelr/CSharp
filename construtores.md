@@ -1,7 +1,7 @@
 # Construtor #
 
 * Utilizado para inicializar objetos e variáveis de tipos de valor
-* Faz com que o objeto seja inicializado no momento de sua instanciação
+* Torna obrigatória a inicialização do objeto no momento de sua instanciação
 * Possui o mesmo nome da classe a que pertence
 
 ``` 
