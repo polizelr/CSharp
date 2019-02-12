@@ -1,14 +1,20 @@
 # Comentários #
 
 1.
+```
   //comentário de uma linha
 
+```
 
 2.
-  /*
+
+```
+ /*
    comentário
    de múltiplas
    linhas
-  */
+ */
+
+```
 
 
