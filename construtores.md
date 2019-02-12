@@ -9,6 +9,8 @@ public Produto(string nome, double preco){
   Nome = nome;
   Preco = preco;
 }
+
+var p = new Produto("Caneta", 2.90);
 ```
 
 
@@ -23,5 +25,7 @@ Além das características mencionadas anteriormente, o construtor padrão:
 public Produto(){
 
 }
+
+var p = new Produto();
 ```
 
