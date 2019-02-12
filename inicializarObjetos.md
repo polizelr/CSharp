@@ -1,9 +1,8 @@
 # Formas de Inicializar Objetos #
 
-1.
+1. Os atributos são inicializados com o valor padrão dos tipos os quais pertencem
 
 ```
-//os atributos são inicializados com o valor padrão dos tipos os quais pertencem
 var p1 = new Produto();
 ```
 
