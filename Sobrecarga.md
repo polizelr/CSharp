@@ -1,4 +1,4 @@
-A sobrecarga ocorre quando uma classe possui dois métodos com o mesmo nome, porém com assinaturas diferentes. 
+A sobrecarga ocorre quando uma classe possui dois métodos com o mesmo nome, porém com assinaturas diferentes. <br>
 Uma assinatura é composta pelo nome do método e pelos tipos dos parâmetros e deve ser única dentro da classe.
 
 
