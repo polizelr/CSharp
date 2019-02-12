@@ -1,6 +1,7 @@
 # This #
 
-É uma referência para o próprio objeto.
+É uma referência para o próprio objeto. <br>
+<br>
 Usos:
 
 * Utilizado para diferenciar atributos de variáveis locais
