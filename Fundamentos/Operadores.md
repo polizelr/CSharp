@@ -3,18 +3,41 @@
 ## Operadores Aritméticos ##
 
 ```
-  + 
-  - 
-  *
-  / 
-  % 
-  Math.Pow(base, expoente)
+  + , - , * , / , % , Math.Pow(base, expoente)
 ```
 
 ## Operadores Relacionais ##
 
-O resultado de uma operação relacional é 
+```
+  > , < , == , != , >= , <=
+```
+
+## Operadores Lógicos ##
 
 ```
-  + , - , * , / , % , Math.Pow(base, expoente)
+  && , || , ! , ^ (ou exclusivo)
 ```
+
+## Operadores de Atribuição ##
+
+```
+  += , -= , *= , /=
+```
+
+## Operadores Unários ##
+
+```
+  - , ! , ++ , --
+```
+
+Operador pré fixado tem maior precedência que pós fixado
+
+
+## Operador Ternário ##
+
+```
+  media >= 7.0 ? "Aprovado" : "Reprovado"
+```
+
+
+
