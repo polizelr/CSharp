@@ -2,18 +2,13 @@
 
 ## Operadores Aritméticos ##
 
-* Adição:        +
-* Subtração:     -
-* Multiplicação: *
-* Divisão:       /
-* Módulo:        %
-* Exponenciação: Math.Pow(base, expoente)
-
-
-
-
 ```
-  + , - , * , / , % , Math.Pow(base, expoente)
+  + 
+  - 
+  *
+  / 
+  % 
+  Math.Pow(base, expoente)
 ```
 
 ## Operadores Relacionais ##
